@@ -1,7 +1,7 @@
 schema_version: 20180708
 name: fn-build-hackathon
-version: 0.0.12
+version: 0.0.19
 runtime: python
 entrypoint: /python/bin/fdk /function/func.py handler
-memory: 1024
+memory: 512
 timeout: 120
